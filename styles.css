@@ -1,0 +1,39 @@
+body{
+    background-color: #090909;
+}
+
+.title{
+    color: #EDF2EF;
+    padding: 5%;
+    font-size: 100px;
+}
+
+.button{   
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    border: none;
+}
+
+.red{
+    background-color: #EA4335;
+}
+
+.green{
+    background-color: #34A85C;
+}
+
+.blue{
+    background-color: #4285F4;
+}
+
+.yellow{
+    background-color: #FBBC05;
+}
+
+
+@media screen and (max-width: 992px) {
+    .title{
+        font-size: 50px;
+    }
+  }
